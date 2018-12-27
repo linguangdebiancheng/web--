@@ -1,3 +1,6 @@
-[
+{
 “sites":[
-{ "name":"林广小说网" , "url":"www.linguangxiaoshuowang.com" }
+{"name":"林广小说网"}
+]
+}
+
